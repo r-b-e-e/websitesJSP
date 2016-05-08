@@ -10,3 +10,22 @@ This repository contains all the JSP websites created/contributed by Rakesh Bala
 
 > ##### [DB SQL SCHEMA](https://github.com/rlingaku/Projects_Website_JSP/tree/master/EHealthcareManagement/Database%20Script)
 
+
+<br>
+<br>
+
+
+> ### Visual Analytics: Crime Analysis - City of Seattle
+<p align="justify">The aim of this project is to develop a Visual Analytics tool to visualize the City of Seattle's crime data. This tool is a WEB application that gives more analysis on safe and unsafe areas of Seattle based on previous crime events. The Web Application is developed using Spring MVC framework. The visualization charts are integrated with the web tool using D3Plus (JavaScript). We have also made use of ArcGIS tool to integrate Geo-Spatial View in this web application.</p>
+
+> ##### SCREENSHOTS (Click to Maximize)
+
+<a href="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/input.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/input.png"alt="IMAGE ALT TEXT HERE" width="200" height="150" border="10" /></a> <a href="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/line_trends.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/line_trends.png"alt="IMAGE ALT TEXT HERE" width="250" height="150" border="10" /></a> <a href="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/geo_spatial.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/geo_spatial.png"alt="IMAGE ALT TEXT HERE" width="250" height="150" border="10" /></a> <a href="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/geo_spatial_zoom.png" target="_blank"><img src="https://github.com/rlingaku/Projects_Website_JSP/blob/master/SeattleCrimeAnalysis/pics/geo_spatial_zoom.png"alt="IMAGE ALT TEXT HERE" width="250" height="150" border="10" /></a> 
+
+
+
+
+
+
+
+
