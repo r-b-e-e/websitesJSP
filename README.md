@@ -1,7 +1,7 @@
 # Projects_Website_JSP
 This repository contains all the JSP websites created/contributed by Rakesh Balan Lingakumar
 
-> ### EHealth Care Management
+> ### EHealth Care Management Project
 <p align="justify">The project was aimed to develop a web application using JAVA with JSF framework for healthcare centers to provide online service to its patients. With the help of such an application, general problems can be advised through online consultation. Twitter Bootstrap was mainly used for web design. The whole project was developed by following Agile Methodology</p>
 
 > ##### SCREENSHOTS (Click to Maximize)
