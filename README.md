@@ -1,4 +1,4 @@
-# Projects_Website_JSP
+# Projects Website JSP
 This repository contains all the JSP websites created/contributed by Rakesh Balan Lingakumar
 
 > ### EHealth Care Management
